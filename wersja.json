@@ -1,6 +1,6 @@
 {
-  "wersja_kod": 20,
-  "wersja": "1.8.1",
-  "opis_pl": "Poprawka: ekran meczu mieści się na wszystkich telefonach, dolne przyciski są zawsze widoczne.",
-  "opis_en": "Fix: the live match screen now fits all phones, the bottom buttons are always visible."
+  "wersja_kod": 26,
+  "wersja": "1.9",
+  "opis_pl": "Nowość: liga kobiet, menedżerki, nowe menu, rozwój menedżera i nagrody, taktyka w trakcie meczu (zagrywka, blok i obrona, okrzyk trenera), nowy ekran przed meczem i nowy trening.",
+  "opis_en": "New: women's league, female managers, new menu, manager progression and awards, in-match tactics (serve, block and defence, coach reactions), new pre-match screen and new training."
 }
